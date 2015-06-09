@@ -110,3 +110,13 @@ footer {
   display: block;
   background-color: #ffffff;
 }
+
+.Incandescent{
+  background-color:#e4c22a;
+  overflow: hidden;
+}
+
+.standard{
+  background-color:#e4c22a;
+  overflow: hidden;
+}
