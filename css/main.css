@@ -15,13 +15,6 @@ p, .info, .info2 {
   font-size: 1.0rem;
 }
 
-.-symbol{
-  clear:;
-  float:;
-  width:50%;
-  margin:5px;
-  border:0;
-}
 
 .icon{
   width:10%;
@@ -42,7 +35,6 @@ nav li{
   padding: 1em;
   float:left;
   width:28%;
-  border:1px solid #000;
   background-color:#222222;
 
 }
@@ -90,7 +82,6 @@ h1 {
 
 h2 {
   color: #b32f52;
-  border-top: 2px solid black;
   padding: 1em;
 }
 
