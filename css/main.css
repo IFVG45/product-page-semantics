@@ -3,6 +3,7 @@ header {
   margin: 0;
   display: block;
   background-color: #d05c2e;
+  position:fixed;
 }
 
 h1, h2 {
@@ -14,7 +15,7 @@ p, .info, .info2 {
   font-size: 1.0rem;
 }
 
-.dragon-symbol{
+.-symbol{
   clear:;
   float:;
   width:50%;
@@ -24,7 +25,6 @@ p, .info, .info2 {
 
 .icon{
   width:10%;
-  position:absolute;
   left:335px;
   top:5px;
   border:5;
@@ -32,9 +32,7 @@ p, .info, .info2 {
 
 nav{
 overflow:hidden;
-clear:left;
 margin:0;
-
 }
 
 
@@ -46,6 +44,7 @@ nav li{
   width:28%;
   border:1px solid #000;
   background-color:#222222;
+
 }
 
 
@@ -53,7 +52,6 @@ nav li:hover {
   background-color:#929292;
 }
 nav a{
-  padding:0.5em;
   color:#fff;
   text-decoration:none;
   font-size:1.15 rem;
@@ -66,10 +64,6 @@ nav ul{
   margin:0;
 
 
-}
-
-nav {
-  padding: .5em;
 }
 
 header h1 {
@@ -89,6 +83,7 @@ main {
 h1 {
   color: #b32f52;
   text-align: center;
+  font-size: 1.5em;
 }
 
 
