@@ -2,8 +2,7 @@ header {
   text-align: center;
   margin: 0;
   display: block;
-  background-color: #d05c2e;
-  position:fixed;
+  background-color: #8c8984;
 }
 
 h1, h2 {
@@ -41,7 +40,7 @@ nav li{
 
 
 nav li:hover {
-  background-color:#929292;
+  background-color:#8c8984;
 }
 nav a{
   color:#fff;
@@ -98,11 +97,11 @@ footer {
 }
 
 .Incandescent{
-  background-color:#e4c22a;
+  background-color:#005b9a;
   overflow: hidden;
 }
 
 .standard{
-  background-color:#e4c22a;
+  background-color:#0191c8;
   overflow: hidden;
 }
